@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @AlchemyArtNft Cardano Blockchain NFT's CNFT's
+- 👋 Hi, we are AlchemyArt creating small collections of amazing Cardano CNFTs
 
-- 📫 How to reach me: https://twitter.com/AlchemyArtNFT https://www.alchemyartnft.com/ contact@alchemyartnft.com
+- 📫 How to reach us: 
+- https://twitter.com/AlchemyArtNFT 
+- https://www.alchemyartnft.com/ 
+- contact@alchemyartnft.com
 
 <!---
 AlchemyArtNft/AlchemyArtNft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
